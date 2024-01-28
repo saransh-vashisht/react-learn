@@ -4,10 +4,10 @@
 import { CORE_CONCEPTS } from "./data.js";
 // we put curly braces around the named exports that we are exporting the thing into
 
-import Header from "./components/header.jsx";
+import Header from "./components/Header/Header.jsx";
 // we have here exported the header component into our app.jsx file to be used in it and we will have to use the same name as our function for it
 
-import CoreConcept from "./components/CoreConcept.jsx";
+import CoreConcept from "./components/CoreConcept/CoreConcept.jsx";
 
 // Outputting dynamic values using react
 // const reactDescriptions = ["Fundamental", "Crucial", "Core"];

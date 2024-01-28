@@ -19,7 +19,7 @@ html {
   min-height: 80rem;
 }
 
-header {
+/* header {
   text-align: center;
   margin: 3rem 0;
 }
@@ -45,7 +45,7 @@ header p {
   font-size: 1.25rem;
   color: #8964b0;
   font-family: "Roboto Condensed", sans-serif;
-}
+} */
 
 main {
   width: 90%;
@@ -53,12 +53,12 @@ main {
   margin: auto;
 }
 
-#core-concepts {
+/* #core-concepts {
   padding: 2rem;
   border-radius: 6px;
   background-color: #140524;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
-}
+} */
 
 main h2 {
   text-align: center;
@@ -67,7 +67,7 @@ main h2 {
   color: #a18aba;
 }
 
-#core-concepts ul {
+/* #core-concepts ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -94,7 +94,7 @@ main h2 {
 
 #core-concepts li p {
   font-size: 0.9rem;
-}
+} */
 
 #examples {
   margin: 3rem auto;
